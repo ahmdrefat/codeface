@@ -1,8 +1,5 @@
 ![Codeface](images/codeface-header-HR.png)
 
-![Typefaces for source code beautification](images/tagline.gif)
-
-
 ## Contents
 
 * [About](ABOUT.md)
@@ -78,6 +75,13 @@
 ![Cousine](images/cousine-TP.png)
 ![Cousine](images/cousine-TPC.png)
 ![Cousine](images/cousine.png)
+
+
+### [CP Mono](fonts/cp-mono)
+
+![CP Mono](images/cp-mono-TP.png)
+![CP Mono](images/cp-mono-TPC.png)
+![CP Mono](images/cp-mono.png)
 
 
 ### [Crisp](fonts/crisp)
@@ -157,6 +161,20 @@
 ![Free Mono](images/free-mono.png)
 
 
+### [Gohufont](fonts/gohufont)
+
+![Gohufont](images/gohufont-TP.png)
+![Gohufont](images/gohufont-TPC.png)
+![Gohufont](images/gohufont.png)
+
+
+### [Hack](fonts/hack)
+
+![Hack](images/hack-TP.png)
+![Hack](images/hack-TPC.png)
+![Hack](images/hack.png)
+
+
 ### [Hasklig](fonts/hasklig)
 
 ![Hasklig](images/hasklig-TP.png)
@@ -192,11 +210,25 @@
 ![Inconsolata LGC](images/inconsolata-lgc.png)
 
 
+### [Latin Modern Mono Light](fonts/latin-modern-mono)
+
+![Latin Modern Mono Light](images/latin-modern-mono-TP.png)
+![Latin Modern Mono Light](images/latin-modern-mono-TPC.png)
+![Latin Modern Mono Light](images/latin-modern-mono.png)
+
+
 ### [Liberation Mono](fonts/liberation-mono)
 
 ![Liberation Mono](images/liberation-mono-TP.png)
 ![Liberation Mono](images/liberation-mono-TPC.png)
 ![Liberation Mono](images/liberation-mono.png)
+
+
+### [Linux Libertine Mono](fonts/linux-libertine-mono)
+
+![Linux Libertine Mono](images/linux-libertine-mono-TP.png)
+![Linux Libertine Mono](images/linux-libertine-mono-TPC.png)
+![Linux Libertine Mono](images/linux-libertine-mono.png)
 
 
 ### [Lekton](fonts/lekton)
@@ -225,6 +257,13 @@
 ![M+ 1m](images/mplus1m-TP.png)
 ![M+ 1m](images/mplus1m-TPC.png)
 ![M+ 1m](images/mplus1m.png)
+
+
+### [M+ 1mn](fonts/mplus1mn)
+
+![M+ 1m](images/mplus1mn-TP.png)
+![M+ 1m](images/mplus1mn-TPC.png)
+![M+ 1m](images/mplus1mn.png)
 
 
 ### [M+ 2m](fonts/mplus2m)
@@ -309,6 +348,13 @@
 ![Monte Carlo](images/monte-carlo-TP.png)
 ![Monte Carlo](images/monte-carlo-TPC.png)
 ![Monte Carlo](images/monte-carlo.png)
+
+
+### [Nanum Gothic Coding](fonts/nanum-gothic-coding)
+
+![Nanum Gothic Coding](images/nanum-gothic-coding-TP.png)
+![Nanum Gothic Coding](images/nanum-gothic-coding-TPC.png)
+![Nanum Gothic Coding](images/nanum-gothic-coding.png)
 
 
 ### [Not Courier Sans](fonts/not-courier-sans)
@@ -457,6 +503,12 @@
 ![Verily Serif Mono](images/verily-serif-mono-TPC.png)
 ![Verily Serif Mono](images/verily-serif-mono.png)
 
+
+### [Whois Mono](fonts/whois-mono)
+
+![Whois Mono](images/whois-mono-TP.png)
+![Whois Mono](images/whois-mono-TPC.png)
+![Whois Mono](images/whois-mono.png)
 
 ---
 

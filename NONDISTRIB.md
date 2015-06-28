@@ -7,32 +7,47 @@ The following typefaces are free to use; however, they do not permit redistribut
 
 ### [Envy Code R](http://damieng.com/blog/2008/05/26/envy-code-r-preview-7-coding-font-released)
 
-![Envy Code R](images/envy-code-r-TP.png)
-![Envy Code R](images/envy-code-r.png)
+<img src="images/envy-code-r-TP.png" width="725">
+<img src="images/envy-code-r-TPC.png" width="725">
+<img src="images/envy-code-r.png" width="725">
+
+
+### [Input Mono](http://input.fontbureau.com/download/)
+
+<img src="images/input-mono-TP.png" width="725">
+<img src="images/input-mono-TPC.png" width="725">
+<img src="images/input-mono.png" width="725">
 
 
 ### [Klartext Mono Light](http://www.fontspring.com/fonts/heimatdesign/klartext-mono)
 
-![Klartext Mono](images/klartext-mono-TP.png)
-![Klartext Mono](images/klartext-mono.png)
+<img src="images/klartext-mono-TP.png" width="725">
+<img src="images/klartext-mono-TPC.png" width="725">
+<img src="images/klartext-mono.png" width="725">
 
 
 
 ### [Monofonto](http://www.fontspring.com/fonts/typodermic/monofonto)
 
-![Monofonto](images/monofonto-TP.png)
-![Monofonto](images/monofonto.png)
+<img src="images/monofonto-TP.png" width="725">
+<img src="images/monofonto-TPC.png" width="725">
+<img src="images/monofonto.png" width="725">
 
 
 
 ### [Monoxil Regular](http://www.fontspring.com/fonts/urtd/monoxil)
 
-![Monoxil Regular](images/monoxil-regular-TP.png)
-![Monoxil Regular](images/monoxil-regular.png)
+<img src="images/monoxil-regular-TP.png" width="725">
+<img src="images/monoxil-regular-TPC.png" width="725">
+<img src="images/monoxil-regular.png" width="725">
 
 
 
 ### [NK57 Monospace](http://www.fontspring.com/fonts/typodermic/nk57-monospace)
 
-![NK57 Monospace](images/nk57-monospace-TP.png)
-![NK57 Monospace](images/nk57-monospace.png)
+<img src="images/nk57-monospace-TP.png" width="725">
+<img src="images/nk57-monospace-TPC.png" width="725">
+<img src="images/nk57-monospace.png" width="725">
+
+
+
